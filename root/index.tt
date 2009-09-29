@@ -1,0 +1,13 @@
+[% INCLUDE header.tt %]
+
+<h2>Hello world!</h2>
+<p>From here you can investigate URLs such as:<br/>
+<a href="/main/1/foo/2">Foo</a> and 
+<a href="/main/3/bar/4">Bar</a>.</p>
+
+<div id="footer">
+  <a href="http://catalystframework.org"><img
+    src="/static/images/btn_120x50_powered_shadow.png"/></a>
+</div>
+
+[% INCLUDE footer.tt %]

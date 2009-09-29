@@ -1,0 +1,7 @@
+[% INCLUDE header.tt %]
+
+<h2>Foo</h2>
+<p>Your first argument was [% first_arg %] and the other next was [% second_arg
+%].</p>
+
+[% INCLUDE footer.tt %]
